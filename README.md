@@ -97,6 +97,6 @@ This project is currently maintained by Andrew Wooldridge. If you'd like to cont
 
 ## License
 
-[Include appropriate license information here]
+MIT
 
 Enjoy creating fun emoji scenes!
